@@ -1,0 +1,4 @@
+# spring:
+#     data:
+#         mongodb:
+#             uri: mongodb+srv://sumanmaity25d:admin@healthcare.nyuyocy.mongodb.net/?retryWrites=true&w=majority&appName=HealthCare
